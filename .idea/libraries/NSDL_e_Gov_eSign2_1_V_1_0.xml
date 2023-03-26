@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NSDL_e-Gov_eSign2.1_V-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../NSDL_e-Gov_eSign2.1_V-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
